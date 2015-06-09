@@ -1,0 +1,21 @@
+
+.content_section {
+	position: relative;
+}
+.content_section .content_section__navbar {
+	min-height: 40px;
+	padding-right: 0;
+	background: #f6f6f6;
+}
+.content_section__nav {
+	padding: 0;
+	margin: 0;
+}
+.content_section__link {
+	color: #aaa;
+}
+.content_section__title {
+	font-size: 15px;
+	color: #aaa;
+	margin: 10px 0 0 0;
+}

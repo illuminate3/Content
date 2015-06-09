@@ -1,0 +1,15 @@
+
+.content_block {
+	position: relative;
+}
+.content_block .content_block__navbar {
+	display: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 1100;
+	width: 100%;
+}
+.content_block:hover .content_block__navbar {
+	display: block;
+}
